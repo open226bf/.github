@@ -10,9 +10,9 @@ La gouvernance d'OPEN226 évolue avec la croissance de la communauté.
 
 ### Phase 1 — Fondation (actuelle)
 
-**Structure :** Leadership unique de la fondatrice.
+**Structure :** Leadership unique du fondateur.
 
-- La fondatrice prend les décisions stratégiques
+- Le fondateur prend les décisions stratégiques
 - Les contributions et suggestions sont bienvenues via les Issues et Discussions
 - Toutes les décisions importantes sont documentées publiquement
 
@@ -41,7 +41,7 @@ La gouvernance d'OPEN226 évolue avec la croissance de la communauté.
 ## Processus de Décision
 
 ### Décisions courantes
-Prises par la fondatrice ou les mainteneurs. Commentaires bienvenus via les Issues.
+Prises par le fondateur ou les mainteneurs. Commentaires bienvenus via les Issues.
 
 ### Décisions importantes
 (Changements de licence, orientations stratégiques, nouveaux projets majeurs)
